@@ -1,0 +1,54 @@
+{
+    "users": [
+      {
+        "id": "23d2",
+        "name": "Diya Sabikhi",
+        "email": "diya0075.be23@chitkara.edu.in",
+        "phone": "9034156032",
+        "dob": "2005-12-11",
+        "gender": "Female",
+        "activities": [
+          "Art & Craft"
+        ],
+        "bloodGroup": "B+",
+        "parentGuidelines": [
+          "Agree to School Policies",
+          "Medical Emergency Consent"
+        ]
+      },
+      {
+        "id": "0e2e",
+        "name": "Akanksha",
+        "email": "akanksha464@gmail.com",
+        "phone": "6283649678",
+        "dob": "2005-10-30",
+        "gender": "Female",
+        "activities": [
+          "Indoor Games",
+          "Art & Craft"
+        ],
+        "bloodGroup": "B+",
+        "parentGuidelines": [
+          "Agree to School Policies",
+          "Medical Emergency Consent"
+        ]
+      },
+      {
+        "id": "740a",
+        "name": "Bhumi Gupta",
+        "email": "bhumi0060.be23@chitkara.edu.in",
+        "phone": "7015490758",
+        "dob": "2006-01-28",
+        "gender": "Female",
+        "activities": [
+          "Nature Walks",
+          "Team Sports"
+        ],
+        "bloodGroup": "AB+",
+        "parentGuidelines": [
+          "Agree to School Policies",
+          "Medical Emergency Consent"
+        ]
+      }
+    ]
+  }
